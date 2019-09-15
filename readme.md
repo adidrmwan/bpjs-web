@@ -1,5 +1,4 @@
-DB_CONNECTION=mysql
-DB_HOST=sql12.freemysqlhosting.net
-DB_DATABASE=sql12305259
-DB_USERNAME=sql12305259
-DB_PASSWORD=p3ncMYwjwU
+sql12.freemysqlhosting.net <br>
+sql12305259 <br>
+sql12305259 <br>
+p3ncMYwjwU <br>
